@@ -109,5 +109,5 @@ In `./css/main.scss` you will find the main code for the project. </br>
    ```css
    //Use Case
 
-   padding: $padding $padding * 4;
+   padding: $padding * 4;
    ```
