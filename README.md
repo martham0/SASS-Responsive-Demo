@@ -54,7 +54,7 @@ In `./css/main.scss` you will find the main code for the project. </br>
    </br>Creat Mixin
 
    ```css
-   //below is used to make basica @media query formate
+   //below is used to make basic @media query formate
 
    @mixin desktop {
      @media (min-width: #{$desktop}) {
